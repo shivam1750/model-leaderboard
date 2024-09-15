@@ -4,7 +4,7 @@ This project is a **model leaderboard** website for evaluating a variety of mode
 
 ## Project Structure  
 
-```
+``` 
 model-leaderboard/
 │
 ├── data/                  # Directory for storing datasets (e.g., COCO)
