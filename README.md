@@ -2,7 +2,7 @@
 
 This project is a **model leaderboard** website for evaluating a variety of models on the COCO dataset. Models are compared compares models across a variety of metrics, computed with [supervision](https://github.com/roboflow/supervision).
 
-## Project Structure
+## Project Structure  
 
 ```
 model-leaderboard/
